@@ -1,0 +1,17 @@
+submission/4_5670.py:40: error: Cannot find implementation or library stub for module named "lib"  [import-not-found]
+submission/4_5670.py:40: error: Name "Trie" already defined on line 22  [no-redef]
+submission/4_5670.py:68: error: Incompatible types in assignment (expression has type "None", variable has type "int")  [assignment]
+submission/4_3080.py:40: error: Cannot find implementation or library stub for module named "lib"  [import-not-found]
+submission/4_3080.py:40: note: See https://mypy.readthedocs.io/en/stable/running_mypy.html#missing-imports
+submission/4_3080.py:40: error: Name "Trie" already defined on line 22  [no-redef]
+submission/5_3653.py:23: error: Cannot find implementation or library stub for module named "lib"  [import-not-found]
+submission/5_3653.py:23: error: Name "SegmentTree" already defined on line 17  [no-redef]
+submission/5_2243.py:23: error: Cannot find implementation or library stub for module named "lib"  [import-not-found]
+submission/5_2243.py:23: error: Name "SegmentTree" already defined on line 17  [no-redef]
+submission/5_17408.py:23: error: Cannot find implementation or library stub for module named "lib"  [import-not-found]
+submission/5_17408.py:23: error: Name "SegmentTree" already defined on line 17  [no-redef]
+submission/3_1629.py:36: error: Unsupported target for indexed assignment ("int")  [index]
+submission/3_1629.py:36: error: Invalid index type "int" for "Matrix"; expected type "tuple[int, int]"  [index]
+submission/3_10830.py:37: error: Unsupported target for indexed assignment ("int")  [index]
+submission/3_10830.py:37: error: Invalid index type "int" for "Matrix"; expected type "tuple[int, int]"  [index]
+Found 15 errors in 7 files (checked 10 source files)
